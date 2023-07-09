@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+h1, h2, h3, h4, h5, h6, a, p, button {
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo{
+    width: 200px;
+}
+
+.picture{
+    width: 400px;
+    
+}
+
+.twitterlogo{
+    width: 180px;
+}
+
+.SpaceLogo{
+    width: 250px;
+}
+
+.OpenAILogo{
+    width: 290px;
+}
+
+.modelS{
+    width: 150px;
+}
+
+.model3{
+    width: 185px;
+}
+
+.modelX{
+    width: 150px;
+}
+
+.ModelY{
+    width: 150px;
+}
+
+.circlePic{
+    width: 150px;
+    border-radius: 50%;
+}
+
+.faceIcon{
+    width: 70px;
+}
+
+.inIcon{
+    width: 70px;
+}
+
+.gitIcon{
+    width: 70px;
+}
+
+.flogo{
+    width: 80px;
+}
+
+.ffaceIcon{
+    width: 35px;
+}
+
+.finIcon{
+    width: 35px;
+}
+
+.fgitIcon{
+    width: 35px;
+}
+
+nav{
+    padding: 10px;
+    margin: 20px;
+    font-size: 18px;
+}
+
+.navbar a{
+    color: red;
+    text-decoration: none;
+    padding: 7px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding: 7px;
+}
+
+#btnModel3{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    color: white;
+}
+
+#btnModelS{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    color: white;
+}
+
+#btnModelX{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    color: white;
+}
+
+#btnModelY{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    color: white;
+}
+
+#btnMore{
+    padding: 9px;
+    background-color: white;
+    color: red;
+    border-color: red;
+}
+
+#btnAboutElon{
+    padding: 10px 30px;
+    background-color: white;
+    border-color: rgba(3, 99, 137, 0.6);
+}
+
+#btnCompanies{
+    padding: 10px 40px;
+}
+
+#Companies{
+    margin: 60px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#Section2{
+    margin: 60px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.top{
+    background-color: white;
+    top: -30px;
+    bottom: -30px;
+}
+
+#About{
+    background-color: rgba(3, 99, 137, 0.6);
+    color: white;
+}
+
+footer{
+    background-color: midnightblue;
+}
+
+#Sections{
+    background-color: rgba(245, 245, 245, 0.767);
+}
+
+table{
+    border-collapse: collapse;
+    border-top: none white;
+    border-left: none white;
+    border-right: none white;
+}
